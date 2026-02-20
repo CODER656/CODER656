@@ -60,8 +60,6 @@ I am a Computer Engineering graduate from Gebze Technical University. Over the p
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/CODER656">
-    <img src="https://github-readme-stats.vercel.app/api?username=CODER656&show_icons=true&theme=transparent&hide_border=true&title_color=6DB33F&icon_color=6DB33F" alt="Furkan's GitHub Stats" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CODER656&show_icons=true" />
+</p>
