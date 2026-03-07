@@ -13,23 +13,23 @@
 
 <br/>
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a Computer Engineering graduate from Gebze Technical University. Over the past **22 months**, I've worked as a Software Engineer Intern at **Yapı Kredi Technology** and **Fibabanka**. My focus is on enterprise-level backend development, asynchronous communication, and version control management.
 
-- 🌱 **Currently exploring:** Distributed Systems, Microservices Architecture, and Design Patterns (Circuit Breaker, Outbox).
-- 🎓 **Education:** Computer Engineering @ Gebze Technical University.
+-  **Currently exploring:** Distributed Systems, Microservices Architecture, and Design Patterns (Circuit Breaker, Outbox).
+-  **Education:** Computer Engineering @ Gebze Technical University.
 
 ---
 
-## 💼 Experience Highlights
+##  Experience Highlights
 
 * **Fibabanka (10 months):** Developed a credit card discount system (Java 11+) and managed the manual migration of 7 distributed projects from SVN to Git.
 * **Yapı Kredi Technology (1 year):** Built RESTful APIs (Spring Boot), implemented event-driven structures (Kafka, RabbitMQ), and wrote automated tests achieving **85% JUnit coverage**.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <table align="center">
   <tr>
